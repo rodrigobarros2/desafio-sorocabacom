@@ -25,7 +25,6 @@ const App = () => {
 					src={BgImage}
 					layout="fill"
 					objectFit="cover"
-					quality={100}
 				/>
 				<Header />
 				<S.CardContainer>
@@ -37,7 +36,6 @@ const App = () => {
 								alt="Red The Singer"
 								width={544}
 								height={772}
-								quality={100}
 							/>
 
 							<S.ContainerPena>
@@ -48,7 +46,6 @@ const App = () => {
 											alt="Red The Singer"
 											width={149}
 											height={138}
-											quality={100}
 										/>
 									</S.FeatherOne>
 
@@ -58,7 +55,6 @@ const App = () => {
 											alt="Red The Singer"
 											width={199}
 											height={173}
-											quality={100}
 										/>
 									</S.FeatherTwo>
 								</div>
@@ -70,7 +66,6 @@ const App = () => {
 											alt="Red The Singer"
 											width={114}
 											height={119}
-											quality={100}
 										/>
 									</S.FeatherThree>
 
@@ -80,7 +75,6 @@ const App = () => {
 											alt="Red The Singer"
 											width={176}
 											height={173}
-											quality={100}
 										/>
 									</S.FeatherFour>
 								</div>
