@@ -19,7 +19,7 @@ import Feather4 from '../../assets/feather/feather-4.png';
 const App = () => {
 	return (
 		<S.Container>
-			<S.Home>
+			<S.Home id="home">
 				<Image
 					alt="Background"
 					src={BgImage}
