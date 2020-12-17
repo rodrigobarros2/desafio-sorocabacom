@@ -1,9 +1,12 @@
 import styled from 'styled-components';
 import { device } from '../../config/device';
 
-export const Container = styled.div``;
+export const Container = styled.div`
+	height: 100%;
+`;
 
 export const Home = styled.div`
+	height: 100%;
 	> div {
 		overflow: hidden;
 		z-index: -10;
@@ -16,13 +19,14 @@ export const CardContainer = styled.div`
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	height: 90%;
 
 	> div {
 		width: 32vh;
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		height: 80.8vh;
+		height: 100%;
 		background-image: linear-gradient(#9c020480, #4d101045);
 
 		@media ${device.tablet} {
@@ -69,7 +73,7 @@ export const CardContainer = styled.div`
 	span:last-child {
 		color: #f0f0f2;
 		display: block;
-		font: 1em 'Open Sans', sans-serif;
+		font: 0.9em 'Open Sans', sans-serif;
 		text-align: center;
 		text-shadow: 0px 3px 6px #00000029;
 		width: 80%;
