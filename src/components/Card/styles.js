@@ -18,12 +18,11 @@ export const CardContainer = styled.div`
 	justify-content: center;
 
 	> div {
-		/* 32 */
-		width: 70%;
+		width: 32vh;
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		height: 90vh;
+		height: 80.8vh;
 		background-image: linear-gradient(#9c020480, #4d101045);
 
 		@media ${device.tablet} {
