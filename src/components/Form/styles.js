@@ -141,7 +141,7 @@ export const Footer = styled.div`
 	> div {
 		border-radius: 100%;
 		background: #ffffff;
-		height: 80px;
+		height: 83px;
 		padding: 13px 0 0 0;
 		position: absolute;
 		top: 26%;
