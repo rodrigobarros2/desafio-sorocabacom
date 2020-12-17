@@ -132,7 +132,8 @@ export const FormGroupTwo = styled.div`
 
 export const Footer = styled.div`
 	background-color: #363636;
-	height: 414px;
+	height: 30vh;
+
 	position: relative;
 	text-align: center;
 	width: 100%;
@@ -141,13 +142,12 @@ export const Footer = styled.div`
 	> div {
 		border-radius: 100%;
 		background: #ffffff;
-		height: 83px;
+		height: 84px;
 		padding: 13px 0 0 0;
 		position: absolute;
 		top: 26%;
 		right: 8%;
 		width: 90px;
-		transition: all 0.6s ease-in-out;
 	}
 
 	a {
