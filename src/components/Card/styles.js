@@ -18,7 +18,8 @@ export const CardContainer = styled.div`
 	justify-content: center;
 
 	> div {
-		width: 32vh;
+		/* 32 */
+		width: 70%;
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
