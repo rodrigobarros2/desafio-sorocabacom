@@ -3,6 +3,9 @@ import { device } from '../../config/device';
 
 export const Container = styled.div`
 	height: 100%;
+	background: #41533b;
+	position: relative;
+	z-index: -20;
 `;
 
 export const Home = styled.div`
