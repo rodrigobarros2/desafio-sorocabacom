@@ -6,7 +6,9 @@
 </h4>
    
 <h6 align="center">
-  O teste realizado é uma landing page desenvolvido em Next.js. (SSG = Server Side Generation) Optei por utilizar o Next.js pelas seguintes vantagens, Lazy loading para melhor performance, Conversão de imagens para webp, carregamento dinâmico de imagens para cada dispositivo. Na landing page foi adicionado algumas bibliotecas como, react-elastic-carousel(criação do carrossel responsivo), yup e unform(validação de formulário) e styled-components(estilização da página).
+  O teste realizado é uma landing page desenvolvido em Next.js. (SSG = Server Side Generation) Optei por utilizar o Next.js pelas seguintes vantagens, Lazy loading para melhor performance, Conversão de imagens para webp, carregamento dinâmico de imagens para cada dispositivo. Na landing page foi adicionado algumas bibliotecas como, react-elastic-carousel(criação do carrossel responsivo), yup e unform(validação de formulário) e styled-components(estilização da página) utilizando o conceito de mobile first.
+
+Link do protótipo https://xd.adobe.com/spec/ae3a652f-3a94-4950-7008-6c9e9d27ab1f-d80b/specs/
 </h6>
 
 ## Technologies
